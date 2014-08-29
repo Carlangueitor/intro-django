@@ -1,0 +1,11 @@
+{
+  "name": "python-fun",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Carlangueitor/python-fun",
+  "authors": [
+    "Charly Román <chack14rock@gmail.com>"
+  ],
+  "description": "Presentación sobre Python",
+  "main": "index.html",
+  "license": "MIT"
+}
